@@ -295,5 +295,17 @@
     "Github": "https://github.com/HardikPanwar",
     "FilePath": "../projects/Maze-Game/index.html",
     "Description": "A simple Fun Maze game built using HTML, CSS and Javascript"
+  },
+  {
+    "Name": "Fitness-web-app",
+    "Author": "Vivek Rawat",
+    "tags": [
+      "ReactJs",
+      "MotionUi",
+      "Web-app"
+    ],
+    "Github": "https://github.com/vivekrawat21/Fitness-web-app",
+    "FilePath": "../projects/Fitness-web-app/src/App.js",
+    "Description": "A web-app where you can search/find vast range of exercises and you can also read blogs about fitness . It is created using ReactJS and Rapid Api"
   }
 ]
